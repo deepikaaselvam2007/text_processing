@@ -1,0 +1,4 @@
+Artificial Intelligence (AI) is the simulation of human intelligence by machines.
+AI is used in healthcare, education, banking, transportation, and many other fields.
+Machine learning is a branch of artificial intelligence.
+Natural language processing helps computers understand human language.
